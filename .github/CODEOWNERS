@@ -6,8 +6,8 @@
 # filename @username1 @username2
 
 # Code Owners for a directory
- apis/poi/ @ryariyaz
- apis/trips/ @mohidem
+ apis/poi/ @ryariyaz @ashisa
+ apis/trips/ @mohidem @ashisa
 
 # All group members as Code Owners for a file
 # filename @groupname

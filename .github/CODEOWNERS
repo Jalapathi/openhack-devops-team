@@ -8,7 +8,7 @@
 # Code Owners for a directory
 /apis/poi/ @ryariyaz
 /apis/trips/ @mohidem
-/apis/user-java/ @@mohidem
+/apis/user-java/ @mohidem
 /apis/userprofile/ @jalapathiinfi
 # All group members as Code Owners for a file
 # filename @groupname
